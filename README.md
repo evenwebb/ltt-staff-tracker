@@ -23,7 +23,7 @@ This PHP-based project is designed to monitor changes in the team members listed
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/evenwebb/ltt-staff-tracker.git
-   cd team-monitoring-system
+   cd ltt-staff-tracker
    ```
 
 2. **Set Up Environment**:
